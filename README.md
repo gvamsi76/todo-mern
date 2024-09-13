@@ -1,6 +1,4 @@
-Here’s a `README.md` for a **To-Do CRUD Application** with both **backend** and **frontend** descriptions. This will serve as a guide for setting up, understanding, and contributing to the project.
 
----
 
 # To-Do Application - Full Stack (MERN)
 
